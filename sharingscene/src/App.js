@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <a class="login-button" href="#">ログイン</a>
       </header>
     </div>
   );

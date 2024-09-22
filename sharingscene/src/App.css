@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.login-button {
+  color: #fff;
+  border: 1px solid #fff;
+}
